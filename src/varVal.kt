@@ -22,12 +22,12 @@ fun main(){
     Neste trecho de código tem um erro de compilação
     mensagem de erro
     Kotlin: 'val' cannot be reassigned.
- */
+
 
     val nome = "Odair Gabriel"
     println("Meu nome é $nome")
 
     nome = "Odair"
     println("Meu nome é $nome")
-
+    */
 }
