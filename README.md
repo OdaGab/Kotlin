@@ -1,4 +1,3 @@
-# Kotlin
-Exercícios para a aula prática
-Se tiver alguma dúvida, entre em contato. 
-odavita32@gmail.com
+# Desmistificando a Linguagem de Programação Kotlin
+
+Repositório com os exemplos de código-fonte explorados para o ensimo de Kotlin.
